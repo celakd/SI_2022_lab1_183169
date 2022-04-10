@@ -1,5 +1,5 @@
-bread
-cigarettes
-milk
-juice
-apples
+bread x1
+cigarettes x2
+milk x1
+juice x1
+apples x5
