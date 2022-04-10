@@ -2,4 +2,4 @@ bread x1
 cigarettes x2
 milk x1
 juice x1
-apples x5
+apples x3
