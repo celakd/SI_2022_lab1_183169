@@ -1,0 +1,40 @@
+5. cd SI_2022_lab1_183169
+git add shopping_list.txt
+git commit -m "Add 5 items to the shopping list"
+
+6. git add shopping_list.txt
+git commit -m "Add quantities to the items"
+
+7. git checkout -b branch1
+git checkout master
+git checkout -b branch2
+
+9. git checkout master 
+git push
+
+10. git checkout branch1
+
+11. git add shopping_list.txt
+git commit -m “Change quantity of item #5”
+
+12. git add shopping_list.txt
+git checkout master
+
+13. git commit -m "Change quantity of item #2"
+
+14. git push
+
+15. git checkout branch2
+
+16. git add shopping_list.txt 
+git commit -m "Modify item #4"
+
+18. git commit --amend -m "Modify item #4 and add item #6"
+
+20. git checkout master
+git merge branch1
+git commit -m "Merged branch1"
+
+21. git merge branch2 -m "Merged branch2" // тука се појави конфликт кој го решив со менување на содржината на фајлот
+git add shopping_list.txt
+git commit -m "Merged branch2"
