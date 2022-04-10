@@ -1,5 +1,6 @@
 bread x1
-cigarettes x2
+cigarettes x3
 milk x1
+yoghurt x1
+apples x3
 juice x1
-apples x5
